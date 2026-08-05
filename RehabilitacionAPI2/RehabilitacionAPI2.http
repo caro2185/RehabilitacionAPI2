@@ -1,0 +1,6 @@
+@RehabilitacionAPI2_HostAddress = http://localhost:5276
+
+GET {{RehabilitacionAPI2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\APIConnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\TerapeutaPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|c:\\users\\karol\\source\\repos\\rehabilitacionapi2\\rehabilitacionapi2\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|solutionrelative:rehabilitacionapi2\\controllers\\sesionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\LoginManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\ledTerapy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\LoginPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|c:\\users\\karol\\source\\repos\\rehabilitacionapi2\\rehabilitacionapi2\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|solutionrelative:rehabilitacionapi2\\models\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|c:\\users\\karol\\source\\repos\\rehabilitacionapi2\\rehabilitacionapi2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|solutionrelative:rehabilitacionapi2\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|c:\\users\\karol\\source\\repos\\rehabilitacionapi2\\rehabilitacionapi2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35DF5CA7-52DB-4075-95A0-6B8E70483632}|RehabilitacionAPI2\\RehabilitacionAPI2.csproj|solutionrelative:rehabilitacionapi2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIConnector.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\APIConnector.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\APIConnector.cs",
+              "ToolTip": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\APIConnector.cs",
+              "RelativeToolTip": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\APIConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T00:04:52.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TerapeutaPanel.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\TerapeutaPanel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\TerapeutaPanel.cs",
+              "ToolTip": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\TerapeutaPanel.cs",
+              "RelativeToolTip": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\TerapeutaPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:40:56.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\LoginManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\LoginManager.cs",
+              "ToolTip": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\LoginManager.cs",
+              "RelativeToolTip": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\LoginManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T20:54:24.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPanel.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\LoginPanel.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\LoginPanel.cs",
+              "ToolTip": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\LoginPanel.cs",
+              "RelativeToolTip": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\LoginPanel.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAJIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T17:23:01.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ledTerapy.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\ledTerapy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\ledTerapy.cs",
+              "ToolTip": "C:\\Users\\karol\\Interfaz-v1\\Assets\\Scritps\\ledTerapy.cs",
+              "RelativeToolTip": "..\\..\\..\\Interfaz-v1\\Assets\\Scritps\\ledTerapy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T21:15:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SesionesController.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Controllers\\SesionesController.cs",
+              "RelativeDocumentMoniker": "RehabilitacionAPI2\\Controllers\\SesionesController.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Controllers\\SesionesController.cs",
+              "RelativeToolTip": "RehabilitacionAPI2\\Controllers\\SesionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:50:17.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Models\\Sesion.cs",
+              "RelativeDocumentMoniker": "RehabilitacionAPI2\\Models\\Sesion.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Models\\Sesion.cs",
+              "RelativeToolTip": "RehabilitacionAPI2\\Models\\Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T22:47:55.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "RehabilitacionAPI2\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Models\\Usuario.cs",
+              "RelativeToolTip": "RehabilitacionAPI2\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T22:50:24.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "RehabilitacionAPI2\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\RehabilitacionAPI2\\RehabilitacionAPI2\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "RehabilitacionAPI2\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T22:52:55.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
