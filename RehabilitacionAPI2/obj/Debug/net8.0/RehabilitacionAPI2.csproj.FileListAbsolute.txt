@@ -39,3 +39,4 @@ C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\RehabilitacionAPI2.pdb
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\RehabilitacionAPI2.genruntimeconfig.cache
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\ref\RehabilitacionAPI2.dll
+C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\RehabilitacionAPI2.sourcelink.json

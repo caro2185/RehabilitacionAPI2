@@ -1,0 +1,22 @@
+# Compilación
+[Oo]bj/
+[Bb]in/
+[Bb]uild/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Paquetes
+packages/
+
+# Publicaciones
+publish/

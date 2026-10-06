@@ -1,4 +1,5 @@
-﻿using MongoDB.Bson;
+﻿using System.Text.Json.Serialization;
+using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace RehabilitacionAPI2.Models
@@ -9,16 +10,18 @@ namespace RehabilitacionAPI2.Models
         [BsonRepresentation(BsonType.ObjectId)]
         public string? Id { get; set; }
 
-        [BsonElement("id_paciente")]
+        [BsonElement("idPaciente")]
+        //[JsonPropertyName("idPaciente")]
         public string IdPaciente { get; set; } = "";
 
-        [BsonElement("id_terapeuta")]
+        [BsonElement("idTerapeuta")]
+        //[JsonPropertyName("idTerapeuta")]
         public string IdTerapeuta { get; set; } = "";
 
-        [BsonElement("id_terapia")]
+        [BsonElement("idTerapia")]
         public int IdTerapia { get; set; }
 
-        [BsonElement("nombre_terapia")]
+        [BsonElement("nombreTerapia")]
         public string NombreTerapia { get; set; } = "";
 
         [BsonElement("puntaje")]
@@ -27,7 +30,7 @@ namespace RehabilitacionAPI2.Models
         [BsonElement("precision")]
         public double Precision { get; set; }
 
-        [BsonElement("tiempo_segundos")]
+        [BsonElement("tiempoSegundos")]
         public int TiempoSegundos { get; set; }
 
         [BsonElement("fecha")]

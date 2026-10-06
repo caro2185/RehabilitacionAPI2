@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
 using RehabilitacionAPI2.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace RehabilitacionAPI2.Controllers
 {
@@ -10,9 +11,9 @@ namespace RehabilitacionAPI2.Controllers
     {
         private readonly IMongoCollection<Usuario> _usuariosCollection;
 
-        public UsuariosController()
+        public UsuariosController(IConfiguration configuration)
         {
-            var connectionString = "mongodb+srv://karolinajaimes15_db_user:Caro2185_110@cluster0.v9gexas.mongodb.net/?appName=Cluster0";
+            var connectionString = configuration["MongoDB:ConnectionString"];
             var client = new MongoClient(connectionString);
             var database = client.GetDatabase("RehabVR_DB");
             _usuariosCollection = database.GetCollection<Usuario>("usuarios");
