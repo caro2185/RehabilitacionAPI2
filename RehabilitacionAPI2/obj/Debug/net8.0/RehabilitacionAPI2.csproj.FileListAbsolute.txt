@@ -32,7 +32,6 @@ C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\Rehabili.68ED8E0B.Up2Date
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\RehabilitacionAPI2.dll
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\refint\RehabilitacionAPI2.dll
@@ -40,3 +39,4 @@ C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\RehabilitacionAPI2.genruntimeconfig.cache
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\ref\RehabilitacionAPI2.dll
 C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\RehabilitacionAPI2.sourcelink.json
+C:\Users\karol\source\repos\RehabilitacionAPI2\RehabilitacionAPI2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

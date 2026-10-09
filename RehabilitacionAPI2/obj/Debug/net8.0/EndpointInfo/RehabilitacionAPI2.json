@@ -383,18 +383,47 @@
             "nullable": true
           },
           "puntaje": {
+            "maximum": 100,
+            "minimum": 0,
             "type": "integer",
             "format": "int32"
           },
           "precision": {
+            "maximum": 100,
+            "minimum": 0,
             "type": "number",
             "format": "double"
           },
           "tiempoSegundos": {
+            "maximum": 2147483647,
+            "minimum": 0,
             "type": "integer",
             "format": "int32"
           },
           "fecha": {
+            "type": "string",
+            "nullable": true
+          },
+          "aciertos": {
+            "maximum": 2147483647,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          },
+          "errores": {
+            "maximum": 2147483647,
+            "minimum": 0,
+            "type": "integer",
+            "format": "int32"
+          },
+          "dificultad": {
+            "type": "string",
+            "nullable": true
+          },
+          "completada": {
+            "type": "boolean"
+          },
+          "notas": {
             "type": "string",
             "nullable": true
           }

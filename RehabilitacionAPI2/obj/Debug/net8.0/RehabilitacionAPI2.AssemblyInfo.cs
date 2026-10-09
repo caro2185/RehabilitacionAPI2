@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RehabilitacionAPI2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c39c81f8b894b7a1139c2e05b4ef8d81a4fe12df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22d70c3353adf7db7ce342cd081bccf78154a461")]
 [assembly: System.Reflection.AssemblyProductAttribute("RehabilitacionAPI2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RehabilitacionAPI2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
